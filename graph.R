@@ -4,7 +4,7 @@
 
 COL_CLASS1  <- "magenta"
 COL_CLASS2  <- "red"
-COL_CLASS3  <- "blue"
+COL_CLASS3  <- "orange"
 
 
 library(ggplot2)
