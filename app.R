@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("IRIS DATABASE: Classification with KNN"),
+    titlePanel("IRIS DATABASE: Classification with Random Forest"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
