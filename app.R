@@ -23,7 +23,7 @@ ui <- fluidPage(
                         min = 1,
                         max = 30,
                         value = 10),
-            actionButton("do", "Run")
+            actionButton("do", "Classify")
             ),
 
         # Show a plot of the generated distribution
