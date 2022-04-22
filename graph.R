@@ -2,9 +2,9 @@
 # GRAPHICATION
 ###################################
 
-COL_CLASS1  <- "black"
-COL_CLASS2  <- "magenta"
-COL_CLASS3  <- "yellow"
+COL_CLASS1  <- "magenta"
+COL_CLASS2  <- "red"
+COL_CLASS3  <- "orange"
 
 
 library(ggplot2)
